@@ -1,5 +1,5 @@
 export default function OrderPage() {
   return <div>
-    <p>Hello!</p>
+    <p>Hello! Orders!</p>
   </div>
 }

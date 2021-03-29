@@ -1,5 +1,5 @@
 export default function AccountPage() {
   return <div>
-    <p>Hello!</p>
+    <p>Hello! Account</p>
   </div>
 }
